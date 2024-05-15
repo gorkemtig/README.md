@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm [Your Name], a passionate learner and explorer in the world of information technology. I am particularly interested in how cloud computing and GitHub can revolutionize project management and collaborative work.
+I'm Gorkem, a passionate learner and explorer in the world of information technology. I am particularly interested in how cloud computing and GitHub can revolutionize project management and collaborative work.
 
 ### My Interests
 - **Cloud Computing**: Utilizing platforms like AWS and Azure for scalable solutions.
@@ -15,7 +15,7 @@ GitHub is integral to my development workflow, allowing for efficient version co
 - **Collaborate**: Work with other developers on innovative cloud-based projects.
 
 ## Contact Me
-Feel free to [connect](mailto:your.email@example.com) or follow my [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to [connect](mailto:your.gorkemtigogullari@gmail.com) or follow my [LinkedIn](https://linkedin.com/in/gorkemtigogullari).
 
 *Thank you for visiting my profile!*
 
