@@ -15,7 +15,7 @@ GitHub is integral to my development workflow, allowing for efficient version co
 - **Collaborate**: Work with other developers on innovative cloud-based projects.
 
 ## Contact Me
-Feel free to [connect](mailto:your.gorkemtigogullari@gmail.com) or follow my [LinkedIn](https://linkedin.com/in/gorkemtigogullari).
+Feel free to [connect](mailto:gorkemtigogullari@gmail.com) or follow my [LinkedIn](https://linkedin.com/in/gorkemtigogullari).
 
 *Thank you for visiting my profile!*
 
